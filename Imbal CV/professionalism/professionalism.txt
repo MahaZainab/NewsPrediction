@@ -1,0 +1,25 @@
+Correctness
+    Keywords
+    Concepts
+    Authority
+    
++
+
+Authority
+    Number of friends
+    Number of followers
+  
++
+
+Currency
+
+    Date of information sharing
+    
++
+
+Professionalism
+    Saftey rating
+    reputation
+    trustworthiness
+    child safety
+   
